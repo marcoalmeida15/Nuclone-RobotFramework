@@ -16,3 +16,4 @@ Abrir app
     
 Fechar app
     Capture Page Screenshot
+    Close Application
